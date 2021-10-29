@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 hello newBranch
 stashinggit
+=======
+hello newBranch
+>>>>>>> af7c7d5 (newBranch change)
