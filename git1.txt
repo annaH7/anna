@@ -7,3 +7,4 @@ hello newBranch
 >>>>>>> af7c7d5 (newBranch change)git staat
 
 Trying to do git rebase.
+Changes made by git
